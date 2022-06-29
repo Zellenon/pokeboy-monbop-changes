@@ -5,7 +5,7 @@ Not a thing. The absence of a type is considered Normal Type. This reflects how 
 *** IN-PROGRESS Class Mechanic
 Creates Plants on the field? Could be a setup-based type.
 *** TODO Move Theory
-*** TODO 3 Species Gifts
+*** IN-PROGRESS 3 Species Gifts
 - Trap-focused pokemon
 - Defensive-focused plants
 ** TODO Fire [/]
@@ -16,11 +16,18 @@ Creates Plants on the field? Could be a setup-based type.
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Electric [1/3]
+** TODO Electric [2/3]
 *** DONE Class Mechanic
 Builds up Electric Charge and spends it on moves. At high levels, grants passive bonuses with high charge and unlocks new moves / charging methods.
-*** TODO Move Theory
-*** TODO 3 Species Gifts
+*** IN-PROGRESS Move Theory
+Pokemon generate and control electricity.
+Stuff to account for:
+- Paralyze
+- Speed increases
+*** DONE 3 Species Gifts
+- Joltik absorbs electricity to gain charges and debuffs other electric-types
+- Voltorb can spend charges to do a super-explosion that deals half damage to itself with a buffed damage and radius.
+- Blitzle passively gains movespeed from having charge
 ** TODO Psychic [0/3]
 *** IN-PROGRESS Class Mechanic
 Has "proxy" ability which focuses on increasing the range of mundane actions, such as lifting/punching things from a distance or voodoo-style transference of effects. Focuses on Control and Utility over direct damage.
