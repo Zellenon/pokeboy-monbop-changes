@@ -1,0 +1,80 @@
+* Types
+** DONE Normal
+Not a thing. The absence of a type is considered Normal Type. This reflects how the Type Extraction mechanic, as it exists in the universe, works. If a pokemon has their types extracted, they are considered Normal/Normal
+** TODO Grass [0/3]
+*** IN-PROGRESS Class Mechanic
+Creates Plants on the field? Could be a setup-based type.
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+- Trap-focused pokemon
+- Defensive-focused plants
+** TODO Fire [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Water [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Electric [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+Builds up Electric Charge and spends it on moves. At high levels, grants passive bonuses with high charge and unlocks new moves / charging methods.
+** TODO Psychic [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+Has "proxy" ability which focuses on increasing the range of mundane actions, such as lifting/punching things from a distance or voodoo-style transference of effects. Focuses on Control and Utility over direct damage.
+** TODO Fighting [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+Has different "modes" for fighting styles? A Combo mechanic of some kind? Needs more
+** TODO Rock [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Ground [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Flying [0/3]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+The ability to fly is good by itself, but it needs more.
+** TODO Bug [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Poison [0/3]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Dark [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Ghost [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+Can change between Solid and Phased. Can only change at the start of their turn, so they have to commit. Certain moves only work when in one mode or another. At later levels, can turn invisible. Still needs more.
+** TODO Ice [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Steel [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Dragon [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+** TODO Fairy [/]
+*** TODO Class Mechanic
+*** TODO Move Theory
+*** TODO 3 Species Gifts
+Focus on the fact that this is basically the Light class?
