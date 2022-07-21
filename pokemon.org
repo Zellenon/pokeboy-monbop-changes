@@ -8,15 +8,15 @@ Creates Plants on the field? Could be a setup-based type.
 *** IN-PROGRESS 3 Species Gifts
 - Trap-focused pokemon
 - Defensive-focused plants
-** TODO Fire [/]
+** TODO Fire [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Water [/]
+** TODO Water [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Electric [2/3]
+** TODO Electric [2/4]
 *** DONE Class Mechanic
 Builds up Electric Charge and spends it on moves. At high levels, grants passive bonuses with high charge and unlocks new moves / charging methods.
 *** IN-PROGRESS Move Theory
@@ -24,25 +24,126 @@ Pokemon generate and control electricity.
 Stuff to account for:
 - Paralyze
 - Speed increases
+*** IN-PROGRESS Type Gift Mockup
+*Electric Type*
+- Level 0
+  Battery: Electric-types store electric charge to power their abilities. Store up to 3 charges, beginning combat at 0 and gaining 1 charge at the beginning of your turn (once per round). Out of combat, you are considered to have 1 charge unless you charge or discharge during a scene.
+  Type Weakness: See type weakness chart. Gain +1 charge when hit by an electric-type attack. Lose 1 charge when hit by a ground-type attack.
+  Lightning: Electric pokemon can exert control over the high-voltage energy within their body. Contact with this energy causes 1 damage. A melee attack infused with lightning deals +1 damage and becomes electric-typed. You can spend 1 charge to increase damage by a further +1, extend the energy 4m from your body, or extend radius of the attack to 1m. You can spend multiple charges for multiple boosts, but each boost can only be used once. Lightning can only damage 1 enemy at once.
+  Overcharge: At max charge, take 1 damage per charge spent when using Lightning (min 1).
+  Charge Up: Spend you turn to gain +1 charge.
+- Level 1
+  HP: +1 to Max
+  Battery: Can now store 4 charges.
+  Lightning: You can now use the same boost multiple times.
+  Conductors: You can channel lightning through Constructs (plants, webs, rocks, etc manifested through moves) that you are touching for free. This is treated as a melee attack. You cannot increase the range, but you can increase the damage and AoE.
+  Accelerate: You can spend a charge to increase your movespeed by 50% for a turn
+- Level 2
+  HP: +2 to Max
+  Battery: Can now store 5 charges.
+  Static Charge: Gain an additional charge if there are 3 other electric-types within 4m at the start of your turn.
+  Lightning: New boost- Lightning inflicts PARALYSIS on a 6 of a d6 (use the damage die if you roll for damage, otherwise just roll to paralyze).
+  Conductors: You can channel lightning through metal as if through Constructs. If the metal objects have HP (pokemon, robots) they take half the damage of the attack.
+  Accelerate: While accelerated, you can lose accelerate to gain +2 to a single Roll to Dye to dodge. You can now use Accelerate on an ally within 4m.
+  Charge Up: Now gives an additional charge (2 total).
+- Level 3
+  HP: +1 to max
+  Lightning: Gain a free boost with each attack.
+  Battery: Can now store 6 charges.
+  Decelerate: On a successful Do or Die against the target, you can reduce an enemy's movespeed by 50% and give them a -2 to Do attacks for 2 turns.
+- Level 4
+  HP: +2 to Max
+  Battery: Can now store 7 charges.
+  Lightning: Range boost now gives 5m, AoE boost gives 1.5m.
+  Accelerate: Now has a 2m radius, boosting all within. If used on an ally, affects all within 2m of that ally.
+
 *** DONE 3 Species Gifts
 - Joltik absorbs electricity to gain charges and debuffs other electric-types
+  * Level 0
+    Stats: FCDDCB
+    Electron Thief: Can gain a charge by draining electronics or other electrics. This will deal minor damage to robots/cyborgs (1 damage if they have HP), and give a -1 damage-to-next-attack to electric pokemon.
+    Conductive Fangs: +1 damage to melee electric moves.
+    Lil Stealthy: +3 to stealth rolls (decreases to +2 upon evolving)
+
+  * Level 1
+    Interceptor: When an electric attack would pass within 1m, you can roll to defend. If you are successful, you take the attack and take damage as if you had failed to defend. (Electric types gain a buff when hit by electric attacks, so this is better than it sounds)
+    Electron Vampire: Gain a charge when attacking an electric type with melee attacks.
+    <link>
+
+  * Level 2
+    HP: +1 to Max
+    Electron Thief: You can now severely damage electronics and robots, severely disable other electric types, and gain more charge from doing so. Roll a SPA twice, cutting the second result in half. The first number is how much damage you deal, the second is how many charges you get (total).
+    Static Charge: When starting a turn within 3m feet of 2+ electric types, gain an additional charge.
+    Momentary Shock: Gain a +1 to your next roll when hit by an electric shock.
+
+  * Level 3
+    HP: +2 to Max
+    Electric Hunger: You are immune to electric moves once per round. You still gain charges when hit.
+    Interceptor: Range doubles (2m radius).
+    <link>
+
 - Voltorb can spend charges to do a super-explosion that deals half damage to itself with a buffed damage and radius.
+  * Level 0
+    Stats: BFBBC
+    Extra cells: Can store an additional charge
+    Shape of Pokeball: +2 to Do stealth when hiding as a pokeball. You have no basic melee attack. ATK gains are halved.
+    Minor Levitation: Can hover 0.1m above solid surfaces. Must land to take any action other than moving.
+    Detonation: When above 3 charges, lose all charges to explode. This deals 2xSPA damage, reduced by 2 for each meter away from you. You take half of the damage. No resistances or buffs can reduce the self-damage.
+
+  * Level 1
+    Blast Factor: When centered on you, Lightning has +1m of AoE
+    ??
+    <link: SP attack>
+
+  * Level 2
+    Extra cells: Can store an additional charge
+    ??
+    <link>
+
+  * Level 3
+    Blast Factor: When centered on you, Lightning has +2m of range
+    ??
+    <link: SP attack>
+
 - Blitzle passively gains movespeed from having charge
-** TODO Psychic [0/3]
+  * Level 0
+    HP: 12
+    Greased Lightning: Gain +1m movespeed for every 2 charges you have. Must move in straight lines. You can change direction once per move.
+    Charge Attack: New Lightning boost- Spend a charge to move in a straight line and attack. Must be a melee attack.
+
+  * Level 1
+
+  * Level 2
+    Greased Lightning: Gain +1m movespeed for every charge you have.
+
+  * Level 3
+
+** TODO Psychic [0/4]
 *** IN-PROGRESS Class Mechanic
 Has "proxy" ability which focuses on increasing the range of mundane actions, such as lifting/punching things from a distance or voodoo-style transference of effects. Focuses on Control and Utility over direct damage.
 *** TODO Move Theory
+*** IN-PROGRESS Type Gift Mockup
+*Psychic Type*
+- Level 0
+  Area of Influence: Psychic pokemon's power is contained within an area of influence around them, extending from them a certain distance, referred to as their Focal Length. Your Length starts at 5m.
+  Object of Obsession: You are always focused on one object or creature within your Focal Length. Your abilities will often affect your focus. You can change your focus once per round, for free, at the start of your turn.
+- Level 1
+- Level 2
+- Level 3
+- Level 4
+
+
 *** TODO 3 Species Gifts
 ** TODO Fighting [0/3]
 *** IN-PROGRESS Class Mechanic
 Has different "modes" for fighting styles? A Combo mechanic of some kind? Needs more
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Rock [/]
+** TODO Rock [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Ground [/]
+** TODO Ground [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
@@ -51,7 +152,7 @@ Has different "modes" for fighting styles? A Combo mechanic of some kind? Needs 
 The ability to fly is good by itself, but it needs more.
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Bug [/]
+** TODO Bug [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
@@ -59,7 +160,7 @@ The ability to fly is good by itself, but it needs more.
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Dark [/]
+** TODO Dark [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
@@ -68,15 +169,15 @@ The ability to fly is good by itself, but it needs more.
 Can change between Solid and Phased. Can only change at the start of their turn, so they have to commit. Certain moves only work when in one mode or another. At later levels, can turn invisible. Still needs more.
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Ice [/]
+** TODO Ice [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Steel [/]
+** TODO Steel [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Dragon [/]
+** TODO Dragon [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
