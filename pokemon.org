@@ -9,7 +9,7 @@ Creates Plants on the field? Could be a setup-based type.
 - Trap-focused pokemon
 - Defensive-focused plants
 ** TODO Fire [0/3]
-*** TODO Class Mechanic
+*** IN-PROGRESS Class Mechanic
 Fire radiates heat
 *** TODO Move Theory
 *** TODO 3 Species Gifts
