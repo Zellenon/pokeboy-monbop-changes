@@ -10,10 +10,13 @@ Creates Plants on the field? Could be a setup-based type.
 - Defensive-focused plants
 ** TODO Fire [0/3]
 *** TODO Class Mechanic
+Fire radiates heat
 *** TODO Move Theory
 *** TODO 3 Species Gifts
 ** TODO Water [0/3]
 *** TODO Class Mechanic
+Building up water pressure?
+
 *** TODO Move Theory
 *** TODO 3 Species Gifts
 ** TODO Electric [2/4]
@@ -139,11 +142,9 @@ Has "proxy" ability which focuses on increasing the range of mundane actions, su
 Has different "modes" for fighting styles? A Combo mechanic of some kind? Needs more
 *** TODO Move Theory
 *** TODO 3 Species Gifts
-** TODO Rock [0/3]
-*** TODO Class Mechanic
-*** TODO Move Theory
-*** TODO 3 Species Gifts
-** TODO Ground [0/3]
+** KILL Rock [0/3]
+** KILL Ground [0/3]
+** TODO Earth [0/3]
 *** TODO Class Mechanic
 *** TODO Move Theory
 *** TODO 3 Species Gifts
@@ -162,11 +163,14 @@ The ability to fly is good by itself, but it needs more.
 *** TODO 3 Species Gifts
 ** TODO Dark [0/3]
 *** TODO Class Mechanic
+Stealth? Rogue DnD Class? Dirty Play?
 *** TODO Move Theory
 *** TODO 3 Species Gifts
 ** TODO Ghost [0/3]
 *** IN-PROGRESS Class Mechanic
 Can change between Solid and Phased. Can only change at the start of their turn, so they have to commit. Certain moves only work when in one mode or another. At later levels, can turn invisible. Still needs more.
+Ghost Realm?
+Last pokemon touched while intangible is cursed. Costs health? ongoing effects? different levels?
 *** TODO Move Theory
 *** TODO 3 Species Gifts
 ** TODO Ice [0/3]
@@ -179,6 +183,10 @@ Can change between Solid and Phased. Can only change at the start of their turn,
 *** TODO 3 Species Gifts
 ** TODO Dragon [0/3]
 *** TODO Class Mechanic
+Dominance mechanics?
+Very powerful, very needy?
+Supernaturally charming/interesting?
+Magically the center of attention?
 *** TODO Move Theory
 *** TODO 3 Species Gifts
 ** TODO Fairy [0/3]
