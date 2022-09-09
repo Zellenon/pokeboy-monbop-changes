@@ -151,6 +151,8 @@ Has different "modes" for fighting styles? A Combo mechanic of some kind? Needs 
 ** TODO Flying [0/3]
 *** TODO Class Mechanic
 The ability to fly is good by itself, but it needs more.
+Air type? Make wind gusts?
+Altitude resource?
 *** TODO Move Theory
 *** TODO 3 Species Gifts
 ** TODO Bug [0/3]
